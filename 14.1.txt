@@ -1,0 +1,22 @@
+What is the difference between Internal Storage & External Storage?
+A) All phones have internal Storage, where as for external storage we need to buy additional SD card.
+Data stored in internal storage are more secure because there is less chance of tampering with data where as data that is stored in
+Externally are vulnerable to tampering of data ,also for reading or writing into internal memory we dont not require any sepcial permission where as for External we need to 
+specifically ask for permission
+
+For how long the data resides in the cache?
+A) There is a timely check in cache , items are kept in form of queue and track of its members are kept,
+a member is removed when its not been used for a long duration of time
+
+
+What are the critical Permissions and Normal Permissions? What are the examples of each?
+Normal permission are those permission where there is very little risk to user privacy. Example vibration of a phone, there 
+is no risk of users privacy here so we need not confirm with the user
+
+
+critical Permissions, These are used when app wants to use user data to either read/write. Here we need to explicitly request for permission
+from the user, only if the user grants we can perform the desired action related to the permission
+
+
+Normal : Alarm
+Critical : Read Contacts , GPS, Read Message ,Camera
